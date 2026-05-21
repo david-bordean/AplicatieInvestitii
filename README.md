@@ -127,7 +127,7 @@ Aplicația folosește fișiere text pentru încărcarea instrumentelor financiar
 actiuni.in
 crypto.in
 obligatiuni.in
-
+````
 
 
 
