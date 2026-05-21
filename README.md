@@ -132,10 +132,10 @@ obligatiuni.in
 
 
 
-#Review
+# Review
 
 
-##Aplicație de Investiții - Bordean David Ioan
+## Aplicație de Investiții - Bordean David Ioan
 de Bordean David Ioan
 
 
